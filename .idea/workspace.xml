@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4abb6dd-5426-4740-8f02-f76b3244e479" name="变更" comment="0">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_/CustomGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_/DAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_/Generic01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_/Generic02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_/GenericExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_/GenericHomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generic_/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List_/ListExercise02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/List_/li.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/HomeWork01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/HomeWork02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/HomeWork03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/MapExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/MapMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/MapMethod01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/Propertise_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/TreeMap_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Map_/TreeSet_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hsp/collection/ListExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_/HashSetExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_/HashSetExercise01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_/HashSet_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_/SetMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List_/ListMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List_/ListMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/List_/List__.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/List_/List__.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4abb6dd-5426-4740-8f02-f76b3244e479" name="变更" comment="0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660712676133</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0">
+      <created>1675324741783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675324741783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,7 +163,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
